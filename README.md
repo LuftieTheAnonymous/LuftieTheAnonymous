@@ -5,17 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luftjunkie19" alt="luftjunkie19" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/luftjunkie" target="blank"><img src="https://img.shields.io/twitter/follow/luftjunkie?logo=twitter&style=for-the-badge" alt="luftjunkie" /></a> </p>
 
 - 🔭 I’m currently working on **Web3 Builders DAO dApp**
 
 - 🌱 I’m currently learning **Cryptography, DSA**
 
-- 👯 I’m looking for connections, so find me on Github **Luftjunkie#1566**
-
 - 🤝 I’m looking for help with **Implementation of DSA into my projects, when to use which and also blockchain development practices are welcome.**
-
-- 📝 I try to be regularly active on X [https://x.com/luftjunkie](https://x.com/luftjunkie_19)
 
 - 💬 Ask me about **React, Web-development, History, Opinion about current system we live in.**
 
@@ -26,8 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/luftjunkie19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luftjunkie19" height="30" width="40" /></a>
-<a href="https://twitter.com/luftjunkie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luftjunkie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/luftjunkie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luftjunkie" height="30" width="40" /></a>
 <a href="https://discord.gg/luftjunkie#1566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luftjunkie#1566" height="30" width="40" /></a>
 </p>
 
