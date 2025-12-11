@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Luftie The Anonymous, a passionate full-stack Blockchain Developer, focused on building Real Privacy-Respecting Applications, Privacy Expanding Solutions and Decentralized Applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies or sharing my knowledge with the developer community.
+Hi, I'm **Luftie The Anonymous**, a passionate full-stack Blockchain Developer and Linux User, focused on building Real Privacy-Respecting Applications, Privacy Expanding Solutions and Decentralized Applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies or sharing my knowledge with the developer community.
 
 ## My Skills
 
