@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luftjunkie</h1>
 <h3 align="center">A fullstack/blockchain developer, passionate about CS, Blockchain, Cryptocurrencies, AI and Maths</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luftjunkie19&label=Profile%20views&color=0e75b6&style=flat" alt="luftjunkie19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuftieTheAnonymous&label=Profile%20views&color=0e75b6&style=flat" alt="LuftieTheAnonymous" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luftjunkie19" alt="luftjunkie19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuftieTheAnonymous" alt="LuftieTheAnonymous" /></a> </p>
 
 
 - 🔭 I’m currently working on **Web3 Builders DAO dApp**
