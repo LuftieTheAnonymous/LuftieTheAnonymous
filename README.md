@@ -34,6 +34,7 @@ Hi, I'm **Luftie The Anonymous**, a passionate full-stack Blockchain Developer a
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
 <img src="https://img.shields.io/badge/Noir%20Lang-%231c1c1b?style=plastic&logo=Aztec&logoSize=32&labelColor=gray" />
 <img src="https://img.shields.io/badge/Linux-%23ffd40c?style=plastic&logo=linux&logoColor=black&logoSize=32&labelColor=gold&color=ffd40c" />
+<img src="https://img.shields.io/badge/debian-%23ffd40c?style=plastic&logo=debian&logoColor=black&logoSize=32&labelColor=b&color=ff4141" />
 <img src="https://img.shields.io/badge/Windows-%23ffd40c?style=plastic&logo=windows-logo&logoColor=black&logoSize=32&labelColor=b&color=0c96ff"/>
 ## GitHub Stats
 
